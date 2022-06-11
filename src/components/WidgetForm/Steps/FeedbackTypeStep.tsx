@@ -11,7 +11,7 @@ export function FeedbackTypeStep({
   return (
     <>
       <header>
-        <span className="text-xl leading-6">Deixe seu Fi di Beck</span>
+        <span className="text-xl leading-6">Deixe seu feedback</span>
 
         <CloseButton />
       </header>
